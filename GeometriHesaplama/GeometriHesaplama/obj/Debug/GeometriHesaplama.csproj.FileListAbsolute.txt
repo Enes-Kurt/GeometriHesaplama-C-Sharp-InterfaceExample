@@ -1,0 +1,8 @@
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\bin\Debug\GeometriHesaplama.exe.config
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\bin\Debug\GeometriHesaplama.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\bin\Debug\GeometriHesaplama.pdb
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\obj\Debug\GeometriHesaplama.csproj.AssemblyReference.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\obj\Debug\GeometriHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\obj\Debug\GeometriHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\obj\Debug\GeometriHesaplama.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\GeometriHesaplama\GeometriHesaplama\obj\Debug\GeometriHesaplama.pdb
